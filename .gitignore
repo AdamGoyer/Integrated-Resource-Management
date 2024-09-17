@@ -39,3 +39,6 @@ Thumbs.db
 
 # Project specific
 api_key.txt
+
+# VS Code workspace files
+*.code-workspace
