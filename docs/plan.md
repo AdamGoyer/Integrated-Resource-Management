@@ -94,3 +94,8 @@ Form a project team to drive the planning phase.
 Outline budget and resource allocation for research and development.
 Establish partnerships with financial data providers and potential beta testers.
 This document should serve as a foundational blueprint to iterate and build upon as the project progresses. Would you like to add any more specific elements or refine any sections further?
+
+--
+Team Lead Notes
+Plan for the Fact Finder Questionnaire
+- Revew Fact Finder Documents, create a list of short and long fact finder questions

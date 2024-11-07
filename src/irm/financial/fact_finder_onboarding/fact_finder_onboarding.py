@@ -15,9 +15,10 @@ import openai
 import json
 import re
 from datetime import datetime
+from irm.config import Config
 
 # Configuration
-openai.api_key = 'your-api-key-here'  # TODO: Move to environment variable or config file
+openai.api_key = Config.OPENAI_API_KEY
 
 def ask_chatgpt(question):
     """
@@ -120,9 +121,13 @@ def collect_responses(questionnaire):
 def main():
     """
     Main execution function that:
-    1. Collects responses through the questionnaire
-    2. Saves responses to a JSON file
+    1. Validates configuration
+    2. Collects responses through the questionnaire
+    3. Saves responses to a JSON file
     """
+    # Validate configuration before proceeding
+    Config.validate()
+    
     responses = collect_responses(questionnaire)
     
     # Save responses to JSON file

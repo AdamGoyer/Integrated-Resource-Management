@@ -42,3 +42,6 @@ api_key.txt
 
 # VS Code workspace files
 *.code-workspace
+
+# Environment Variables
+.env
