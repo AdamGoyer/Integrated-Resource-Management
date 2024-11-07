@@ -46,3 +46,20 @@ The Integrated Resource Management (IRM) System is designed to enhance personal 
 
 ### Implementation Strategy
 The IRM system leverages machine learning and AI to provide real-time analytics and predictive insights across all modules, ensuring that each dimension of resource management is optimized for individual preferences and needs. This integrated approach not only improves operational efficiencies but also supports sustainable and fulfilling lifestyles.
+
+## Environment Setup
+
+1. Copy `.env.template` to `.env`:
+   ```bash
+   cp .env.template .env
+   ```
+
+2. Edit `.env` and add your configuration values:
+   ```bash
+   nano .env
+   ```
+
+3. Install required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
