@@ -1,4 +1,6 @@
-### Integrated Resource Management (IRM) System
+### Integrated Resource Management (IRM) System (Archive)
+## This document represents the dream of Integrated Resource Management. However, the scope is beyond what a small team can implement well; thus, this version has been delegated to the archives.
+
 
 #### High-Level Concept
 The Integrated Resource Management (IRM) System is designed to enhance personal autonomy by optimizing the management of critical resources: finances, time, health, information, social relationships, energy, and environmental settings. This holistic tool empowers individuals to achieve greater freedom in their personal and professional lives, enabling them to make informed decisions and effectively manage their life resources.
