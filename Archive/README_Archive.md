@@ -13,25 +13,19 @@ The Integrated Resource Management (IRM) System is designed to enhance personal 
    - Insurance & Risk Assessment: Identifies coverage gaps; provides a risk profile for life, disability, and property insurance.
    - Investment Committee Functions: Compiles analyses on market trends, portfolio performance, and risk metrics, supporting residual income    and long-term financial health.
 
-2. **Time Optimization Module:**
-   - Includes scheduling tools that adapt to personal preferences and priorities.
-   - Utilizes AI to automate routine tasks, freeing up time for personal growth and pursuits.
+2. **Time Management Module:**
+   - UseMotion is pretty good. Tying cost and expected ROI to an action as a custom field would be good.
 
 3. **Physical Health Module:**
-   - Offers personalized health plans and preventative care schedules based on user data.
-   - Integrates with wearables and health apps to monitor physical well-being.
-
-4. **Mental Health and Energy Management Module:**
-   - Provides tools for stress management, emotional resilience, and cognitive health.
-   - Monitors mental well-being through mood tracking and cognitive assessments.
-   - Tracks and optimizes energy levels with diet, exercise, and rest suggestions.
-   - Helps plan daily activities according to optimal energy periods.
+You have time, money, and focus. How do you prioritize those resources to ensure you don't run out of HP? Health is Wealth, and without it, you're dead.
 
 5. **Information Management Module:**
+   - Integration with your digital brain (Obsidian)
+   - Supports Life Long Learning aka Anki
    - Enhances information literacy and personal data security.
    - Provides educational resources to facilitate lifelong learning and informed decision-making.
 
-6. **Relationship and Emotional Well-Being Module**
+7. **Relationship and Emotional Well-Being Module**
 To foster deep, meaningful connections and boost emotional resilience by providing users with the right tools, reminders, and insights to maintain a vibrant social fabric.
 
 Key Features & Enhancements:
