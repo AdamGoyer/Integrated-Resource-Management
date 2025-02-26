@@ -1,16 +1,18 @@
 ### Integrated Resource Management (IRM) System (Archive)
-## This document represents the dream of Integrated Resource Management. However, the scope is beyond what a small team can implement well; thus, this version has been delegated to the archives.
+## This document represents the long-term dream of Integrated Resource Management.
 
 
 #### High-Level Concept
-The Integrated Resource Management (IRM) System is designed to enhance personal autonomy by optimizing the management of critical resources: finances, time, health, information, social relationships, energy, and environmental settings. This holistic tool empowers individuals to achieve greater freedom in their personal and professional lives, enabling them to make informed decisions and effectively manage their life resources.
+The Integrated Resource Management (IRM) System is designed to enhance personal autonomy by optimizing the management of critical resources: finances, time, health, information, social relationships, energy, and environmental settings. The system helps users see how choices in one domain affect others, ultimately guiding more effective daily decision-making.
 
 #### High-Level Architecture and Modules
 
 1. **Financial Management Module:**
-   - Provides tools for budgeting, forecasting, and investment management.
-   - Automates financial decision-making processes to maximize financial health and support residual income generation.
-   - [Detailed Financial Management Module Documentation](./modules/financial-management/README.md)
+   - Financial Management Module
+   - Budgeting & Forecasting: Automates and simplifies budgeting with personalized projections.
+    -Investment & Advisory Board: Delivers tailored investment strategies and can consult with a user’s CFP or CPA, integrating knowledge of    legal frameworks, insurance, and tax implications.
+   - Insurance & Risk Assessment: Identifies coverage gaps; provides a risk profile for life, disability, and property insurance.
+   - Investment Committee Functions: Compiles analyses on market trends, portfolio performance, and risk metrics, supporting residual income    and long-term financial health.
 
 2. **Time Optimization Module:**
    - Includes scheduling tools that adapt to personal preferences and priorities.
@@ -20,14 +22,12 @@ The Integrated Resource Management (IRM) System is designed to enhance personal 
 3. **Physical Health Module:**
    - Offers personalized health plans and preventative care schedules based on user data.
    - Integrates with wearables and health apps to monitor physical well-being.
-   - [Detailed Physical Health Module Documentation](./modules/physical-health/README.md)
 
 4. **Mental Health and Energy Management Module:**
    - Provides tools for stress management, emotional resilience, and cognitive health.
    - Monitors mental well-being through mood tracking and cognitive assessments.
    - Tracks and optimizes energy levels with diet, exercise, and rest suggestions.
    - Helps plan daily activities according to optimal energy periods.
-   - [Detailed Mental Health and Energy Management Module Documentation](./modules/mental-health-energy/README.md)
 
 5. **Information Management Module:**
    - Enhances information literacy and personal data security.
@@ -41,27 +41,7 @@ The Integrated Resource Management (IRM) System is designed to enhance personal 
    - Helps plan and organize social events and gatherings.
    - [Detailed Relationship and Emotional Well-being Module Documentation](./modules/relationship-wellbeing/README.md)
 
-7. **Environmental Optimization Module:**
-   - Assists in managing and optimizing living and working spaces.
-   - Provides recommendations for creating inspiring and motivational environments.
-   - [Detailed Environmental Optimization Module Documentation](./modules/environmental-optimization/README.md)
-
 ### Implementation Strategy
-The IRM system leverages machine learning and AI to provide real-time analytics and predictive insights across all modules, ensuring that each dimension of resource management is optimized for individual preferences and needs. This integrated approach not only improves operational efficiencies but also supports sustainable and fulfilling lifestyles.
+The IRM system leverages machine learning and AI to provide real-time analytics and predictive insights across all modules, ensuring that each dimension of resource management is optimized for individual preferences and needs. This integrated approach improves operational efficiencies and supports sustainable and fulfilling lifestyles.
 
-## Environment Setup
 
-1. Copy `.env.template` to `.env`:
-   ```bash
-   cp .env.template .env
-   ```
-
-2. Edit `.env` and add your configuration values:
-   ```bash
-   nano .env
-   ```
-
-3. Install required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
