@@ -17,7 +17,6 @@ The Integrated Resource Management (IRM) System is designed to enhance personal 
 2. **Time Optimization Module:**
    - Includes scheduling tools that adapt to personal preferences and priorities.
    - Utilizes AI to automate routine tasks, freeing up time for personal growth and pursuits.
-   - [Detailed Time Optimization Module Documentation](./modules/time-optimization/README.md)
 
 3. **Physical Health Module:**
    - Offers personalized health plans and preventative care schedules based on user data.
@@ -32,14 +31,12 @@ The Integrated Resource Management (IRM) System is designed to enhance personal 
 5. **Information Management Module:**
    - Enhances information literacy and personal data security.
    - Provides educational resources to facilitate lifelong learning and informed decision-making.
-   - [Detailed Information Management Module Documentation](./modules/information-management/README.md)
 
 6. **Relationship and Emotional Well-being Module:**
    - Manages social networks and tracks emotional health.
    - Provides tools for effective communication and relationship building.
    - Offers strategies for meeting people and fostering real-life connections.
    - Helps plan and organize social events and gatherings.
-   - [Detailed Relationship and Emotional Well-being Module Documentation](./modules/relationship-wellbeing/README.md)
 
 ### Implementation Strategy
 The IRM system leverages machine learning and AI to provide real-time analytics and predictive insights across all modules, ensuring that each dimension of resource management is optimized for individual preferences and needs. This integrated approach improves operational efficiencies and supports sustainable and fulfilling lifestyles.
